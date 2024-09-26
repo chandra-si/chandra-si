@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm Chandra, a passionate developer with a keen in
 
 - ⚡ When I’m not working: You’ll find me enjoying a game of cricket or badminton, or immersing myself in music.
 
-##Certifications:
+## Certifications:
 - Github X3
 - Azure 2X
 
