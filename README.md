@@ -1,16 +1,50 @@
-## Hi there 👋
+# 👋 About Me
 
-Welcome to my GitHub profile! I'm Chandra, a passionate developer with a keen interest in technology and innovation. Here’s a little about me:
+Hi, I’m **Chandraveer Singh** — a dedicated **Technical Lead** and **Full-Stack Developer** with over **14 years of experience** designing and delivering **cloud-native, scalable** software across industries like **travel**, **healthcare**, and **information security**. Based in **Stockholm, Sweden**, I’m passionate about building resilient systems, leading high-impact teams, and aligning technology with business strategy.
 
-- 🔭 I’m currently working on enhancing my expertise in cloud technologies, particularly with Azure, Kubernetes (AKS), and Serverless functions.
+---
 
-- 🤔 I’m looking to collaborate on open-source projects that focus on web development, AI, or anything that makes a positive impact.
+## 🔧 What I Do
 
-- 💬 Ask me about Azure, Kubernetes (AKS), GitHub workflows, Azure DevOps, Serverless functions, or any of the projects I've worked on.
+As a **Technical Architect**, I specialize in building **microservices** and **serverless solutions** using:
 
-- 📫 How to reach me: You can connect with me via LinkedIn or email me at cvsingh86@outlook.com.
+- **Languages & Frameworks**: TypeScript, Node.js, React, GraphQL  
+- **Cloud Platforms**: Azure Cloud
+- **Infrastructure Tools**: CI/CD, Pulumi, Docker, Kubernetes  
 
-- ⚡ When I’m not working: You’ll find me enjoying a game of cricket or badminton, or immersing myself in music.
+
+---
+
+## 🧠 Leadership & Mentorship
+
+I believe in **people-first engineering** and empowering teams to do their best work:
+
+- 👥 Mentored **10+ developers**, improving team capability and code quality  
+- 🛠️ Led Agile teams through **cloud migration** and **DevOps transformation**  
+- 🤝 Drove alignment between stakeholders and engineering to accelerate delivery
+
+As a **Technical Product Owner**, I lead high-performing teams that deliver iteratively and effectively in dynamic environments.
+
+---
+
+## 🌱 Always Learning
+
+I'm constantly upskilling in:
+
+- 🧠 **AI/ML** to make our products future ready
+- ☁️ **Serverless computing** for scale and cost efficiency  
+- ⚙️ **Developer experience tooling** (e.g. Backstage templates, DX automation)
+
+I'm also active in the **open-source community**, contributing to internal tools and shared infrastructure patterns.
+
+---
+
+## 🧰 Tech Toolbox
+
+- **Frontend & API**: React, Next.js, GraphQL, REST, API Gateway
+- **Cloud**: Azure, Serverless, AKS, Containarization
+- **DevOps**: CI/CD (Github Actions), Infrastructure as code (Pulumi), Diagram as Code (PlantUML, Mermaid)
+
 
 ## Certifications:
 - Github X2
