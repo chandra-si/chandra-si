@@ -12,7 +12,6 @@ As a **Technical Architect**, I specialize in building **microservices** and **s
 - **Cloud Platforms**: Azure Cloud
 - **Infrastructure Tools**: CI/CD, Pulumi, Docker, Kubernetes  
 
-
 ---
 
 ## 🧠 Leadership & Mentorship
@@ -35,8 +34,6 @@ I'm constantly upskilling in:
 - ☁️ **Serverless computing** for scale and cost efficiency  
 - ⚙️ **Developer experience tooling** (e.g. Backstage templates, DX automation)
 
-I'm also active in the **open-source community**, contributing to internal tools and shared infrastructure patterns.
-
 ---
 
 ## 🧰 Tech Toolbox
@@ -45,6 +42,19 @@ I'm also active in the **open-source community**, contributing to internal tools
 - **Cloud**: Azure, Serverless, AKS, Containarization
 - **DevOps**: CI/CD (Github Actions), Infrastructure as code (Pulumi), Diagram as Code (PlantUML, Mermaid)
 
+---
+
+## 🤝 Let’s Connect
+
+I’m always open to connecting around **cloud innovation**, **DevOps strategy**, or **leadership opportunities**.
+
+---
+
+## 🗝️ Key Skills
+
+`Microservices` • `Serverless` • `Containerization(AKS)` • `TypeScript` • `React` • `GraphQL` • `Azure` • `CI/CD` • `Agile Leadership` • `Mentorship` • `Strategic Thinking`
+
+---
 
 ## Certifications:
 - Github X2
